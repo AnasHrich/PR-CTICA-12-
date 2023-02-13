@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "title": "Book 1",
+            "cover": "cover1.jpg",
+            "year": 2018,
+            "pages": 200
+        },
+        {
+            "title": "Book 2",
+            "cover": "cover2.jpg",
+            "year": 2016,
+            "pages": 300
+        },
+        {
+            "title": "Book 3",
+            "cover": "cover3.jpg",
+            "year": 2017,
+            "pages": 400
+        },
+        {
+            "title": "Book 4",
+            "cover": "cover4.jpg",
+            "year": 2014,
+            "pages": 500
+        }
+    ]
+}
